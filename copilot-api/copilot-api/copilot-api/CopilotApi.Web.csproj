@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>copilot_api</RootNamespace>
+    <UserSecretsId>80cdcf64-6645-4e0b-8d43-3afab94efca8</UserSecretsId>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CopilotApi.Application\CopilotApi.Application.csproj" />
+    <ProjectReference Include="..\CopilotApi.Domain\CopilotApi.Domain.csproj" />
+    <ProjectReference Include="..\CopilotApi.Infra\CopilotApi.Infra.csproj" />
+  </ItemGroup>
+
+</Project>
