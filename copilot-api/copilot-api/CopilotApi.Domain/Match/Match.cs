@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CopilotApi.Domain.Match
+namespace CopilotApi.Domain
 {
     public class Match
     {

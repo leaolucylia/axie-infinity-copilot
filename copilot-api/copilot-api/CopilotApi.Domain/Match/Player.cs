@@ -1,12 +1,16 @@
-﻿using System.Collections.Generic;
-
-namespace CopilotApi.Domain.Match
+﻿namespace CopilotApi.Domain
 {
     public class Player
     {
-        public IEnumerable<Card> Cards { get; }
+        const int _energyStart = 3;
 
         public int Energy { get; }
 
+        public Deck Deck { get; }
+
+        public Player()
+        {
+            Energy = _energyStart;
+        }
     }
 }

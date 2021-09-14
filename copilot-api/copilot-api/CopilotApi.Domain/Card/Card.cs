@@ -1,10 +1,8 @@
-﻿using CopilotApi.Domain.Axie;
-using CopilotApi.Domain.Card;
-
-namespace CopilotApi.Domain.Match
+﻿namespace CopilotApi.Domain
 {
     public class Card
     {
+        public int Id { get; }
         public string Name { get; }
         public string BodyName { get; }
         public AxieType AxieType { get; }

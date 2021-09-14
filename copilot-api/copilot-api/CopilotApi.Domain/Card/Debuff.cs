@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace CopilotApi.Domain.Card
+namespace CopilotApi.Domain
 {
     public enum Debuff
     {

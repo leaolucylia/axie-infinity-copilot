@@ -1,4 +1,4 @@
-﻿namespace CopilotApi.Domain.Card
+﻿namespace CopilotApi.Domain
 {
     public enum BodyPart
     {

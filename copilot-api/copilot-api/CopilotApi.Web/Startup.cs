@@ -1,3 +1,5 @@
+using CopilotApi.Application;
+using CopilotApi.Application.Match;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -24,6 +26,9 @@ namespace copilot_api
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "copilot_api", Version = "v1" });
             });
+
+            services.AddSingleton<ICardService, CardService>();
+            services.AddSingleton<IMatchService, MatchService>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

@@ -1,4 +1,4 @@
-﻿namespace CopilotApi.Domain.Axie
+﻿namespace CopilotApi.Domain
 {
     public enum AxieType
     {
