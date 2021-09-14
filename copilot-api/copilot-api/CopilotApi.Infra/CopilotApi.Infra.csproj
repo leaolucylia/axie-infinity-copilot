@@ -4,4 +4,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CopilotApi.Domain\CopilotApi.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
