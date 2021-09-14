@@ -20,7 +20,7 @@ namespace copilot_api.Controllers
             _logger = logger;
         }
 
-        [HttpGet]
+        [HttpPost]
         public async Task<IActionResult> Create(
             [FromServices] IMatchService matchService,
             [FromBody] MatchRequest matchRequest)

@@ -1,5 +1,7 @@
 using CopilotApi.Application;
 using CopilotApi.Application.Match;
+using CopilotApi.Domain;
+using CopilotApi.Infra;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -29,6 +31,7 @@ namespace copilot_api
 
             services.AddSingleton<ICardService, CardService>();
             services.AddSingleton<IMatchService, MatchService>();
+            services.AddSingleton<ICardRepository, CardRepository>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

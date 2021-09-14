@@ -4,6 +4,7 @@ namespace CopilotApi.Domain
 {
     public enum Debuff
     {
+        None,
         [Description("O próximo ataque falha / O próximo ataque que chega ignora os escudos. Fica até a próxima ação.")]
         Stun,
         [Description("A prioridade do alvo muda para o Axie afetado para a próxima rodada. (taunt). Por um tempo determinado.")]

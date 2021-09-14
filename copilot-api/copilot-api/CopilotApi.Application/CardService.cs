@@ -11,9 +11,16 @@ namespace CopilotApi.Application
 
     public class CardService : ICardService
     {
+        private readonly ICardRepository _cardRepository;
+
+        public CardService(ICardRepository CardRepository)
+        {
+            _cardRepository = CardRepository;
+        }
+
         public async Task<IEnumerable<Card>> Get()
         {
-            throw new System.NotImplementedException();
+            return await _cardRepository.Get();
         }
     }
 }
