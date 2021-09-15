@@ -1,0 +1,132 @@
+Toothless Bite, Venom Bite,Sneaky Raid,20,40,Prioritizes furthest target,Melee,Reptile
+Kotaro,Kotaro bite,120,20,Gain 1 energy when attacking faster enemy,Melee,Reptile
+Razor Bite,Why So Serious,100,50,Heal user by damage done to Aquatic enemy,Melee,Reptile
+Tiny Turtle,Chomp ,90,50,Apply Stun on enemy in 3 hits combo,Melee,Reptile
+Unko, Pinku Unko/Poo Fling,30,40,Apply Stench on enemy for 1 rounds,Ranged,Reptile
+Scaly Spear,Scaly Lunge ,100,50, + 20% damage when chain with other Lunge abilities,Melee,Reptile
+Cerastes,Surprise Invasion ,90,60, +30% damage when attacking faster target ,Melee,Reptile
+Scaly Spoon,Tiny Catapult,85,40,Strike back when hit by range ability,Ranged,Reptile
+Incisor,Disarm ,100,40,Remove enemy buff ,Melee,Reptile
+Bumpy,Overgrow Keratin,80,20,Recover 20 shield every turn,Melee,Reptile
+Bone Sail, Rugged Sail/Ivory Chop,80,70,Draw a card if user's shield breaks,Melee,Reptile
+Tri Spikes,Spike Throw,100,50,Prioritizes enemy with lowest shield in 3 hits combo,Ranged,Reptile
+Green Thorns,Vine Dagger,20,30, +100% shield when combo with other Plant ability,Ranged,Reptile
+Indian Star,Bulkwark,20,110,Inflict 20% of taken damage back to melee attacker ,Melee,Reptile
+Red Ear,Slippery Shield,10,130,  +15% of user shield for adjacent allies,Melee,Reptile
+Croc,Nile Strike,80,60,Apply Speed- on enemy for 2 rounds,Ranged,Reptile
+Wall Gecko, Escaped Gecko/Critical Escape ,100,0,always lost 25% HP when user get hit directly cannot activate if HP belows 25%,Melee,Reptile
+Iguana,Scale Dart,90,60,Gain 1 energy when attacking buffed enemy,Ranged,Reptile
+Tiny Dino,Tiny Swing ,70,80, +100% damage after round 3,Melee,Reptile
+Snake Jar,Jar Barrage ,10,30,Nullify damage taken from an attack if user's shield break,Ranged,Reptile
+Gila,Neuro Toxin,100,50,Apply Attack- on poisoned enemy,Ranged,Reptile
+Grass Snake,Venom Spray ,10,20,Apply Poison on enemy,Ranged,Reptile
+Mosquito, Feasting Mosquito/Blood Taste,80,50,Heal user by damage done to enemy,Melee,Bug
+Pincer,Sunder Claw,30,10,Randomly discard 1 card on enemy hand,Melee,Bug
+Cute Bunny,Terror Chomp ,120,30,Apply Fear on enemy for 2 turns when chain with other Axies,Melee,Bug
+Square Teeth,Mite Bite,30,0, +100% damage when combo with other abilities,Melee,Bug
+Lagging, Laggingggggg/Mystic Rush,40,0,Apply Speed- on enemy until next round ,Melee,Bug
+Antenna,Bug Signal,90,60,Steal enemies energy when chain with other Signal ability,Ranged,Bug
+Caterpillars,Grub Surprise,80,50,Apply Fear on shielded enemy for 1 turns ,Ranged,Bug
+Pliers,Dull Grip,120,0, +30% damage when attacking shielded enemy,Melee,Bug
+Parasite,Third Glance,90,50,Randomly discard 1 card on enemy hand,Ranged,Bug
+Leaf Bug,Disguise,20,30,Gain 1 Energy when combo with Plant ability,Melee,Bug
+Snail Shell,Sticky Goo,40,100,Stun Enemy if user's shield breaks,Melee,Bug
+Garish Worm,Barb Strike,100,50,Apply Poison on enemy when chain with other Axies,Ranged,Bug
+Buzz Buzz,Bug Noise,100,40,Apply Attack- on enemy,Ranged,Bug
+Sandal,Bug Splat ,110,50, +50% damage when attacking Bug enemy,Melee,Bug
+Scarab ,Scarab Curse,100,40,Enemy cannot heal its HP until next round,Ranged,Bug
+Spiky Wing ,Buzzing Wind,20,0,Apply Fragile on enemy until next round,Ranged,Bug
+Ant,Chemical Warfare,30,40,Apply Stench on enemy for 1 rounds,Melee,Bug
+Twin Tail,Twin Needle,30,0,Attack 2 times when combo with other abilities,Ranged,Bug
+Fish Snack,Anesthetic Bait,60,90,Apply Stun on enemy when attacked by Aquatic or Bird ability,Melee,Bug
+Gravel Ant,Numbing Lecretion,70,50,Disable enemy's melee abilities for next round,Ranged,Bug
+Pupae,Grub Explode,60,0, +100% damage when attacking in last stand. End users last stand after combat,Melee,Bug
+Thorny Cattepilar,Allergic Reaction,120,30, +30% damage on debuffed enemy,Melee,Bug
+Doubletalk, Mr. Doubletalk/Soothing Song,0,40,Apply Sleep on enemy ,Ranged,Bird
+Peace Maker,Peace Treaty ,160,50,Deal 0 damage on enemy which has not attacked,Melee,Bird
+Hungry Bird,Insectivore,110,40,Prioritizes Bug enemy if user's HP is below 50%,Melee,Bird
+Little Owl,Dark Swoop,50,10,Prioritizes fastest enemy,Melee,Bird
+Eggshell, Golden Shell/Eggbomb,150,50,Apply Aroma on user until next round,Ranged,Bird
+Cuckoo,Cockadoodledoo,0,40,Apply Attack+ on user,Ranged,Bird
+Trump,Air Force One,120,30, +20% damage when chained with other Air Force One abilities,Melee,Bird
+Kestrel,Headshot,130,0,Disable enemies horn ability for next round,Ranged,Bird
+Wing Horn,Smart Shot,50,10,When there are 2 or more enemies skip the closest one,Ranged,Bird
+Feather Spear,Feather Lunge,100,50, +20% damage when chain with other lunge abilities,Melee,Bird
+Balloon, Starry Balloon,Balloon Pop,60,0,Apply Fear on enemy for 1 turns. When defending, apply Fear on User until next round. ,Ranged,Bird
+Cupid,Heart Break,90,50,Apply Morale- on enemy for 2 rounds,Ranged,Bird
+Raven,Ill-omened ,110,30,Apply Jinx on enemy for 2 rounds,Ranged,Bird
+Pigeon Post,Blackmail ,120,10,Move all debuffs on user to enemy,Ranged,Bird
+Kingfisher,Patient Hunter,140,10,Prioritizes Aquatic enemy if user's HP is below 50%,Melee,Bird
+Tri Feather,Triple Threat,40,10,Attack two times if user suffers any debuff,Ranged,Bird
+Swallow, Snowy Swallow,Early Bird,130,20, +30% damage if user move first,Ranged,Bird
+Feather Fan,Sunder Armor,40,90, +20% shield for each debuff on user,Melee,Bird
+The Last One,Risky Feather,160,10,Apply Attack-- on user,Ranged,Bird
+Cloud,Puffy Smack,100,50,Skip last standing enemy,Melee,Bird
+Granma's Fan ,Cool Breeze ,110,30,Apply Chill on enemy for 2 rounds,Ranged,Bird
+Post Fight,All-out Shot,140,0,Inflict 30% of max HP to user,Ranged,Bird
+Serious, Hurmorless,Vegetal Bite,40,80,Steal 1 energy from enemy pool,Melee,Plant
+Zigzag,Drain Bite,50,80,Heal user by damage done to enemy,Melee,Plant
+Herbivore,Vegan Diet ,70,80,Heal user by damage done to Plant enemy,Melee,Plant
+Silence Whisper Or Silent Whisper, Forest Spirit,0,40,Heal front ally by 25% of its max HP,Melee,Plant
+Bamboo Shoot, Golden Bamboo Shoot,Bamboo Assault,80,70, + 20% damage when chain with other Bamboo abilities,Melee,Plant
+Beech,Wooden Stab,100,50, + 30% damage if user's shield has broken,Melee,Plant
+Rose Bud,Nature's Grace,0,40,Heal user by 25% of its max HP,Melee,Plant
+Strawberry Shortcake,Sweet Party ,0,40,Heal front ally by 50% of its max HP, Heal enemy by the same amount when get attacked,Melee,Plant
+Cactus,Prickly Trap,130,20, + 30% damage if user move last,Melee,Plant
+Watermelon ,Seed Bullet,30,30,Prioritizes fastest enemy,Ranged,Plant
+Turnip, Pink Turnip,Turnip Rocket,60,80,Prioritizes Bird enemy in 3 hits combo,Ranged,Plant
+Shiitake,Nature's Grace,0,40,Heal user by 25% of its max HP,Melee,Plant
+Bidens,Refresh,0,50,Remove any Debuff on user,Melee,Plant
+Watering Can ,Aquastock ,60,90,Gain 1 energy when hit by Aquatic ability,Ranged,Plant
+Mint,Refresh,0,50,Remove debuff on front ally,Melee,Plant
+Pumpkin,October Smash,30,120,Draw a card at the end of round if user's shield does not break,Melee,Plant
+Carrot, Namek Carrot,Carrot Hammer,100,40,Gain 1 energy when user's shield breaks,Melee,Plant
+Cattail,Cattail Slap,20,30,Draw a card when hit by Beast, Bug or Mech ability,Melee,Plant
+Hatsune,Leek Leak,60,80,Disable enemy's range ability for next round,Melee,Plant
+Yam,Gas Unleash,40,70,Apply Poison on enemy when attacking or defending ,Ranged,Plant
+Potato Leaf,Root Swing,70,80,Cannot be chosen as target of an Aquatic ability if there are other allies,Melee,Plant
+Hot Butt,Spicy Surprise,90,50,Disable enemy's mouth ability for next round,Melee,Plant
+Lam, Lam Handsome,Angry Lam,120,30, +30% damage when users HP is below 50%,Melee,Aquatic
+Catfish,Swallow,100,20,Heal user by damage done to enemy,Melee,Aquatic
+Risky Fish,Fish Hook ,120,30,Apply Attack+ on user when attacking Plant, Reptile or Dusk enemy,Melee,Aquatic
+Piranha ,Crimson Water,130,20,Prioritize injured target with lowest HP when users HP is below 50%,Melee,Aquatic
+Babylonia, Candy Babylonia,Shell Jab,100,50, + 30% damage when attacking idle target ,Melee,Aquatic
+Teal Shell,Deep Sea Gore,50,80, + 30% Shield when attacking ,Melee,Aquatic
+Clamshell,Clam Slash,110,40,Apply Attack+ on user when attacking Beast, Bug or Mech enemy,Melee,Aquatic
+Anemone,Aquaponics,40,0,Recover 10% HP for each Anemone part on user when attacking,Ranged,Aquatic
+Oranda,Hero's Bane,120,30,End enemies last stand,Ranged,Aquatic
+Shoal Star,Star Shuriken,130,20,Enemy cannot last stand when hit by this ability,Ranged,Aquatic
+Hermit, Crystal Hermit,Shelter ,30,100,Enemy cannot strike a critical hit on user,Melee,Aquatic
+Blue Moon,Scale Dart,120,30,Draw a card when attacking last stand enemy,Ranged,Aquatic
+Goldfish,Swift Escape,120,30,Apply Speed+ on user for 2 rounds when attacked,Melee,Aquatic
+Sponge,Shipwreck,60,90,Apply Attack+ on user if user's shield breaks,Melee,Aquatic
+Anemone,Aqua Vitality,40,0,Recover 10% HP for each Anemone part on user when attacking,Melee,Aquatic
+Perch,Spinal Tap,100,20,Prioritize idle enemy in 3 hits combo,Melee,Aquatic
+Koi, Kuro Koi,Upstream Swim ,115,35,Apply Speed+ on user for 2 rounds when combo with other Aquatic ability,Melee,Aquatic
+Nimo,Tail Slap,40,0,Gain 1 Energy when combo with other ability,Melee,Aquatic
+Tadpole,Black Bubble,100,40,Apply Jinx debuff on enemy for 2 rounds,Ranged,Aquatic
+Ranchu,Water Sphere,110,30,Apply Chill debuff on enemy for 2 rounds,Ranged,Aquatic
+Navaga,Flanking Smack,120,30, +30% damage if user move first,Melee,Aquatic
+Shrimp,Chitin Jump ,80,40,Prioritizes furthest target when when users HP is below 50%,Melee,Aquatic
+Nut Cracker, Skull Cracker,Nut Crack,105,40, +30% damage when combo with other 'Nut Crack' ability,Melee,Best, 
+Goda,Piercing Sound,80,40,Destroy 1 enemy's energy,Ranged,Best,
+Axie Kiss,Death Mark,90,30,Apply Lethal on target when users HP is below 30%,Ranged,Best,
+Confident,Self Rally,0,30,Apply Morale++ on user for 2 rounds,Melee,Best,
+Little Branch - Winter Branch,Branch Charge,110,40,Apply Morale+ on user when combo with Plant ability,Melee,Best,
+Imp,Ivory Stab,110,40,Gain 1 energy when your team score a critical hit,Melee,Best,
+Merry,Merry Legion,65,85, +20% Shield when chain with other Merry abilities,Melee,Best,
+Pocky,Sugar Rush,50,0,Heal user HP by 30% when combo with Bug ability,Melee,Best,
+Dual Blade,Sinister Strike,130,20, +50% damage when user score a critical hit,Melee,Best,
+Arco ,Acrobatic,100,50,Apply Morale+ on user for 2 rounds when chain with other Axies,Melee,Best,
+Ronin, Hasagi,Single Combat,85,20,Guarantee critical strike in 3 hits combo,Melee,Best,
+Hero,Heroic Reward,50,0,Draw a card when attacking Aquatic, Bird or Dawn enemy,Melee,Best,
+Jaguar,Nitro Leap,115,35,Always strike first when attacking in last stand,Melee,Best,
+Risky Beast,Revenge Arrow,125,25, +50% damage when attacking in last stand,Ranged,Best,
+Timber,Woodman Power,50,100,Gain Shield equal to damage dealt to Plant enemy,Melee,Best,
+Furball,Juggling Balls,30,40,Strike 3 times,Ranged,Best,
+Cottontail, Sakura cottontail,Luna Absorb,0,0,Gain 1 energy when attacking,Ranged,Best,
+Rice,Night Steal,90,20,Steal 1 energy from enemy if there are any,Melee,Best,
+Shiba,Rampant Howl,110,40,Apply Morale+ on team for 2 rounds when attacking in last stand,Melee,Best,
+Hare,Hare Dagger,120,30,Draw a card if user move first,Ranged,Best,
+Nut Cracker,Nut Throw,105,40, +30% damage when combo with other 'Nut Crack' ability,Ranged,Best,
+Gerbil,Gerbil Jump,40,20,When there are 2 or more enemies, skip the closest one,Melee,Best,
